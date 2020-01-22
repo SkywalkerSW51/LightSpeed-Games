@@ -159,19 +159,19 @@ header div{
 }
 /* Pointless */
 .overwatch{
-	background-image: url("https://www.psu.com/wp/wp-content/uploads/2019/06/PlayStationStore-1024x576.png");
+	background-image: url("/LightSpeed-Games/img/p.png");
 }
 /* Particle Exploder */
 .rocketLeague{
-	background-image: url("https://www.psu.com/wp/wp-content/uploads/2019/06/PlayStationStore-1024x576.png");
+	background-image: url("/LightSpeed-Games/img/pe.svg");
 }
 /* GOD */
 .cod{
-	background-image: url("https://www.psu.com/wp/wp-content/uploads/2019/06/PlayStationStore-1024x576.png");
+	background-image: url("/LightSpeed-Games/img/godb.svg");
 }
 /* Pointless Classic */
 .furi{
-	background-image: url("https://i.postimg.cc/dtcZTYk6/furi.png");
+	background-image: url("/LightSpeed-Games/img/pc.svg");
 }
 /* Pointless 2 */
 .youtube{
