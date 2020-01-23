@@ -267,7 +267,7 @@ header div{
   position: absolute;
   top: 3%;
   left: 10%;
-  background: #0af;
+  background: #ed4337;
   width: 1500px;
   height: 1300px;
   margin-left: -150px;
@@ -280,7 +280,7 @@ header div{
 .wave.-three {
   animation: drift 7500ms infinite linear;
 	position: fixed;
-	background-color: #77daff;
+	background-color: #c73228;
 }
 
 .wave.-two {
