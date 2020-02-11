@@ -173,6 +173,9 @@ header div{
 .furi{
 	background-image: url("/LightSpeed-Games/img/pc.svg");
 }
+.ct{
+	background-image: url("/LightSpeed-Games/img/ct.svg");
+}
 /* Pointless 2 */
 .youtube{
 	background-image: url("/LightSpeed-Games/img/p2b.svg");
@@ -187,6 +190,7 @@ header div{
 .outlast{
 	background-image: url("https://i.postimg.cc/8PQ5xhLw/outlast.png");
 }
+
 
 .storeGame{
 	background-size: 100%;
