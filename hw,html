@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<title>Happy Wheels</title>
+<style>
+	body {
+    	background-color: black;
+        }
+        </style>
+<center>
+<iframe width ="900px" height="650px" src="https://happywheels24.com/happy-wheels.embed">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+</center>
+
+</body>
+</html>
