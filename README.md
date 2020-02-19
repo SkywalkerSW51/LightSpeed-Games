@@ -1,3 +1,3 @@
 # LightSpeed Games
 
-A bunch of free, open-source games. Lightspeed Systems suck.
+A bunch of free games. Lightspeed Systems suck.
