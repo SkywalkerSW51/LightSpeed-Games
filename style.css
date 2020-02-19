@@ -161,6 +161,9 @@ header div{
 .overwatch{
 	background-image: url("/LightSpeed-Games/img/p.png");
 }
+.lt{
+	background-image: url("/LightSpeed-Games/img/lt.png");
+}
 /* Particle Exploder */
 .rocketLeague{
 	background-image: url("/LightSpeed-Games/img/pe.svg");
