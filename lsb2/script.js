@@ -4,7 +4,11 @@
   and
   https://codepen.io/rstacruz/pen/oxJqNv
 */
+/*
 
+$fetch.element(html, css, js) {
+
+*/
 $(document).ready(function(){
 		$(".gameText").hide();
 		$('.gameTitle').hide();
