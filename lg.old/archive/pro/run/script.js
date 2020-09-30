@@ -18,8 +18,8 @@ function randomChoice(array){
 
 var InfiniteRunner = Sketch.create({
   fullscreen: false,
-  width: 1000,
-  height: 500,
+  width: 640,
+  height: 360,
   container: document.getElementById('container')
 });
 
