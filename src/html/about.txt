@@ -1,0 +1,34 @@
+Hello
+
+
+
+This project was started by me after looking at old code from the LightSpeed Games project.
+
+I decided to revive the site, because it ended abruptly. The project will now be known as the LightSpeed Revival Project.
+
+
+Creating LightSpeed Games was a fun time, and I want to continue that. 
+
+
+A few notable additions:
+
+
+- Cleaned up code
+
+- Added SPL v3 License
+
+- "Remastered" some games
+
+- Added Betas for games that never came out
+
+- Added code from the Python Project
+
+
+
+
+
+
+Thanks to everyone who played.
+
+		- SkywalkerSW5
+	  	Sep 30, 2020
