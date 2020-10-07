@@ -39,7 +39,7 @@ leftcen {
 sfont {
 	font-family: 'Arial';
 	src: url("fonts/reg.otf");
-	color: white;
+	color: #ffffff;
 	font-size: 20px;
 
 	}
@@ -48,11 +48,23 @@ invis {
 	font-family: 'Arial';
 	color: #3E3E3E;
 	}
+	
 	a {
 		text-decoration: none;
-		background-color: none;
+		}
+		
+	a:hover {
+		text-decoration: none;
+		background-color: #949494;
 		color: none;
+		width: 500px;
+		height: 20px;
+		background-color: #949494;
 }
-body {
+
+bold {
+	font-family: 'Arial';
+	src: url("fonts/bold.ttf");
 	color: white;
+	font-size: 20px;
 	}
