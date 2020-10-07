@@ -1,0 +1,58 @@
+body {
+	background-color: black;
+	}
+
+nfont {
+	font-family: 'Arial';
+	src: url('fonts/reg.otf');
+	color: white;
+	font-size: 35px;
+	}
+leftcen {
+	position: fixed;
+	left: 40px;
+	
+	}
+	topdown {
+		position: fixed;
+		top: 40px;
+		}
+		
+	rec {
+		width: 500px;
+		height: 100px;
+		background-color: white;
+}
+    #box
+    { 
+    	border: thin solid black; 
+    	width:250px; 
+    	height:900px; 
+    	text-align: justify; 
+    	background-color: #3E3E3E; 
+    	margin: 10px 12px auto; 
+    	/* top, left, bottom*/ 
+    	padding: 10px 20px 30px; 
+    	float: left; 
+    } 
+	
+sfont {
+	font-family: 'Arial';
+	src: url("fonts/reg.otf");
+	color: white;
+	font-size: 20px;
+
+	}
+
+invis {
+	font-family: 'Arial';
+	color: #3E3E3E;
+	}
+	a {
+		text-decoration: none;
+		background-color: none;
+		color: none;
+}
+body {
+	color: white;
+	}
