@@ -65,6 +65,14 @@ invis {
 bold {
 	font-family: 'Arial';
 	src: url("fonts/bold.ttf");
-	color: white;
+	color: blue;
 	font-size: 20px;
+	}
+		
+bfont {
+	font-family: 'Arial';
+	src: url("fonts/reg.otf");
+	color: blue;
+	font-size: 20px;
+
 	}
