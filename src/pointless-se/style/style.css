@@ -65,7 +65,7 @@ invis {
 bold {
 	font-family: 'Arial';
 	src: url("fonts/bold.ttf");
-	color: blue;
+	color: white;
 	font-size: 20px;
 	}
 		
@@ -75,4 +75,10 @@ bfont {
 	color: blue;
 	font-size: 20px;
 
+	}
+	ljfont {
+	font-family: 'Arial';
+	src: url("fonts/bold.ttf");
+	color: red;
+	font-size: 20px;
 	}
