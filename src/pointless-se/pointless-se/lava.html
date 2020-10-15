@@ -24,11 +24,11 @@ THE SOFTWARE.
 -->
 <link rel="stylesheet" type="text/css" href="../style/style.css" />
 <center>
-	<ljfont><b>Lava Jump</b></ljfont>
+	<font1><b>Lava Jump</b></font1>
     <p><p>
-    <bfont>Version 1.1</bfont>
+    <font1>Version 1.1</font1>
     <p></p>
-    <bfont>10 ways to 'win'</bfont>
+    <font1>10 ways to 'win'</font1>
     <p></p>
 </center>
 <canvas id="canvas"></canvas>
@@ -44,7 +44,7 @@ var map = {
     
     keys: [
         {id: 0, colour: '#', solid: 0},
-        {id: 1, colour: 'blue', solid: 1},
+        {id: 1, colour: 'red', solid: 1},
         {id: 47, colour: 'blue', solid: 0},
       
           {id: 91, colour: 'black', solid: 0},
@@ -60,7 +60,7 @@ var map = {
         {id: 6,colour: '#666',solid: 1,bounce: 0},
         {id: 7,colour: '#73C6FA',solid: 0,script: 'change_colour'},
         {id: 8,colour: '#FADF73',solid: 0,script: 'next_level'},
-        {id: 9,colour: 'red',solid: 0,script: 'death'},
+        {id: 9,colour: '#880000',solid: 0,script: 'death'},
       
              {id: 98,colour: '#0048ff',solid: 0,script: 'death'},
         {id: 10,colour: '#555',solid: 1},
@@ -544,6 +544,7 @@ var map = {
 [2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,],
 [2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,],
 [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,],
+[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,],
 
 
 
@@ -603,7 +604,7 @@ var map = {
     player: {
         x: 2,
         y: 2,
-        colour: 'blue'
+        colour: 'red'
     },
     
     /* scripts refered to by the "script" variable in the tile keys */
